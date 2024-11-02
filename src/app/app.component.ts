@@ -10,9 +10,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'curso-tour-of-heroes-frontend';
-  nome = 'Eurismar Pires Borges';
-  hoje = new Date();
+  title = 'Olá mundo';
 
 
 
